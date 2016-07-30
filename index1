@@ -2,5 +2,7 @@
 
 echo "Hi this is my first Git project"
 echo "This time I'm on my Local PC"
+echo "Update the file through the Github"
+
 
 !>
